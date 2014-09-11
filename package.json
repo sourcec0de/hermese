@@ -1,6 +1,6 @@
 {
   "name": "hermese",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "bootstrap an express application with custom error handling",
   "main": "index.js",
   "scripts": {

@@ -13,6 +13,7 @@
   ],
   "author": "qualls.james@gmail.com",
   "license": "MIT",
+  "repository":"git@github.com:sourcec0de/hermese.git",
   "dependencies": {
     "js-yaml": "^3.2.2",
     "lodash": "^2.4.1"
